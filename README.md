@@ -42,7 +42,7 @@ npm i
     source flaky_tester_node.sh 
     ```
 
-* call bash function with **flaky_node_tester** *python_test_file_test.py* *output_file_path.txt*
+* call bash function with **flaky_node_tester** *node_test.js* 
 
 1. Node test module name (required)
 
